@@ -1,0 +1,2 @@
+# Single-Cycle-Execution-of-MIPS-Processor-with-Cache-Management-System
+Designed and verified single-cycle RISC-V's MIPS processor datapath in Verilog supporting R-type(add, sub, and, or etc.), I-type(addi, ori etc.), J-type(beq) and memory instruction, verified on FPGA board. Implemented 16-entry direct-mapped cache system for load/store with hit capacity and instruction memory fetch in case of miss.
